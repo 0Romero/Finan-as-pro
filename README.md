@@ -1,6 +1,6 @@
 # Safe Vault
 
-API do projeto Finanças Pro - Controle de Despesas pessoais
+API do projeto Safe Vault - Controle de Despesas pessoais
 
 ## Requisitos
 
